@@ -1,7 +1,12 @@
 # Base images for Docker that are always up to date
-[![Docker build](https://img.shields.io/docker/automated/cryptton2004/base.svg)](https://hub.docker.com/r/cryptton2004/base/)
+[![SteamCMD Docker build](https://img.shields.io/docker/automated/cryptton2004/steamcmd.svg)](https://hub.docker.com/r/cryptton2004/steamcmd/)
 
-To see all the available images, please go to [this Docker Hub page](https://hub.docker.com/r/cryptton2004/base/).
+[![Ubuntu 18 build](https://img.shields.io/docker/automated/cryptton2004/ubuntu18.svg)](https://hub.docker.com/r/cryptton2004/ubuntu18/)
+
+
+To see all the available steamcmd images, please go to [this Docker Hub page](https://hub.docker.com/r/cryptton2004/steamcmd/).
+
+To see all the available ubuntu18 images, please go to [this Docker Hub page](https://hub.docker.com/r/cryptton2004/ubuntu18/).
 
 ---
 
